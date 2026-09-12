@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Linktree-Shadow_Voidh/',
+ base: '/Linktree-Shadow_Voidh/',
 });
