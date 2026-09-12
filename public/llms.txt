@@ -1,0 +1,17 @@
+# Shadow_Voidh
+
+> Página pessoal de links de Pedro Carnio (Shadow_Voidh), estudante de TI com
+> foco em Rust, Go, Java e TypeScript/TSX.
+
+## Páginas
+
+- [Início](https://shadowvoidh.dev/): perfil, bio curta e links para GitHub,
+  LinkedIn, portfólio e e-mail de contato.
+- [Política de privacidade](https://shadowvoidh.dev/politica-de-privacidade)
+- [Termos de uso](https://shadowvoidh.dev/termos-de-uso)
+
+## Contato
+
+- E-mail: shadow.voidh@gmail.com
+- GitHub: https://github.com/shadowvoidh
+- LinkedIn: https://www.linkedin.com/in/pedrocarnio
