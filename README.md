@@ -1,3 +1,5 @@
+**[PT-BR ]** |   **[[ENG 🇺🇸 ]](README.en.md)**
+
 # 🔗 Linktree Portfolio — Shadow_Voidh
 
 Uma página estilo **Linktree** moderna, responsiva e minimalista desenvolvida para centralizar links de redes sociais, projetos, portfólio e formas de contato em um único lugar.
